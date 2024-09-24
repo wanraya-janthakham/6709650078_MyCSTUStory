@@ -1,0 +1,98 @@
+
+h1{
+    width: 100;
+    height: 100;
+    background-color: brown;
+    color: rgb(238, 203, 6);
+    
+    
+}
+.classh2{
+   color: rgb(53, 51, 51);
+}
+
+div{
+    background-color: rgb(238, 203, 6);
+    color: rgb(146, 146, 146);
+}
+
+.toeyh2{
+    text-align: center;
+    
+}
+
+.moueh2{
+    color: rgb(53, 51, 51);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(146, 146, 146);
+    background-color: rgb(255, 251, 251);
+}
+
+.img1{
+    text-align: center;
+}
+
+.cstu39{
+    color: rgb(53, 51, 51);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(124, 17, 17);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.cs1{
+    background-color: rgb(204, 201, 201);
+    color: black;
+}
+
+.div2{
+    color: rgb(53, 51, 51);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(204, 201, 201);
+    background-color: rgb(204, 201, 201);
+    
+}
+
+.wanrara1{
+    color: grey;
+
+}
+
+.Janthakham{
+    text-align: center;
+    background-color: aliceblue;
+    
+}
+video{
+    width: 25%;
+    height: auto;
+    
+
+}
+dt{
+    font-weight: bold;
+}
+
+dl,dd{
+    font-size: 0.9rem;
+}
+
+dd{
+    margin-bottom: 1em;
+}
+
+ins{
+    padding-left: none;
+    background-color: #dcfcbc;
+}
+
+blockquote{
+    padding-left: 15px;
+    border-left: 3px solid #d7d7db;
+    font-size: 1rem;
+}
+
+
