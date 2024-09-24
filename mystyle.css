@@ -95,4 +95,74 @@ blockquote{
     font-size: 1rem;
 }
 
+.route{
+    color: rgb(210, 243, 21);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(196, 195, 255);
+    background-color: rgb(17, 91, 160);
+    
+    
+
+}
+
+.up1{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+    
+
+
+}
+
+.up2{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+    
+
+}
+
+.up3{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+
+}
+
+.up4{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+
+
+}
+
+.year1{
+    color: black;
+     
+
+}
+
+.year2{
+    color: black;
+
+}
+
+.year3{
+    color: black;
+
+
+}
+
+.year4{
+    color: black;
+
+
+}
+
 
